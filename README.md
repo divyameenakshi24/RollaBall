@@ -1,4 +1,7 @@
-# RollaBall
+### EX NO:02
+### DATE: 
+# <p align="center"> Roll a Ball</p> 
+
 
 ## Aim:
 To Roll a Ball using C# program in unity .
@@ -34,7 +37,7 @@ Save the unity file and take screenshot.
 Close the Unity project.
 
 ## Program:
-```
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
