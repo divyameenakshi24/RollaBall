@@ -1,5 +1,5 @@
 ### EX NO:02
-### DATE:13.04.2022
+### DATE: 13.04.2022
 # <p align="center"> Roll a Ball</p> 
 
 ## Aim:
